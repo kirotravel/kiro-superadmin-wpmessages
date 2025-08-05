@@ -58,7 +58,7 @@ function App() {
                   id="phoneNumber"
                   value={phoneNumber}
                   onChange={handlePhoneChange}
-                  placeholder="e.g., +1234567890"
+                  placeholder="e.g., 1234567890"
                   className="phone-input"
                 />
               </div>
